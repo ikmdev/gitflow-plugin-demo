@@ -12,7 +12,7 @@
 
     <groupId>dev.ikm.demo</groupId>
     <artifactId>gitflow-plugin-demo</artifactId>
-    <version>1.0.0-pre-demo-test2-SNAPSHOT</version>
+    <version>1.0.0-SNAPSHOT</version>
 
     <name>GitFlow Demo</name>
 </project>
